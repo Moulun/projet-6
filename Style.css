@@ -1,0 +1,14 @@
+body{
+    background-color: gray;
+}
+.img1{
+    background-image: url("CARTE.png");
+    height: 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+}
+
